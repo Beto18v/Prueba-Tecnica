@@ -1,4 +1,4 @@
-#Backup y restauración parcial
+# Backup y restauración parcial
 
 1. Para hacer un backup completo de la base de datos, abro la terminal y ejecuto
 mysqldump -u mi_usuario -p mi_basededatos > respaldo.sql
