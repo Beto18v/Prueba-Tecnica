@@ -18,6 +18,12 @@ Aplicación que muestra una lista de dispositivos GPS con navegación a detalles
 ## Ejecución
 
 1. Clona el repositorio:
-   git clone https://github.com/Beto18v/Prueba-Tecnica.git
-2. Ejecuta en la terminal:
-   "npm run dev"
+   - git clone https://github.com/Beto18v/Prueba-Tecnica.git
+2. Instala las dependencias desde la terminal git:
+   - npm install
+4. Instala react router desde la terminal git:
+   - npm install react-router-dom
+5. Instala Bootstrap desde la terminal git:
+   - npm install bootstrap@5.3.6
+6. Ejecuta en la terminal:
+   - npm run dev
